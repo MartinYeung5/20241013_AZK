@@ -46,4 +46,4 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 5. user contract sign(contract created by others and let user to sign)
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/5.png?raw=true)
 
-#### My article (chinese version)
+#### My article
