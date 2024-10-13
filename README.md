@@ -17,7 +17,9 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 
 ###
 * use case
-1. user can upload the digital contract for whole apartment maintenance. Actually one apartment may have many owners. if the whole apartment need some maintenance, it will need all owners to know and make the final ddecision together. Therefore, it will better have a contract to protect each owner benefit.
+1. user can upload the digital contract for personal usage. For example, nowadays, many people can get different business with varios parties, and they may need to have a contract to protect their rights.
+
+2. user can upload the digital contract for whole apartment maintenance. Actually one apartment may have many owners. if the whole apartment need some maintenance, it will need all owners to know and make the final ddecision together. Therefore, it will better have a contract to protect each owner benefit.
 
 ### Schedule/Milestone
 * Add multied25519
