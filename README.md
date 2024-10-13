@@ -25,3 +25,4 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 * Status (Updating)
 
 * Screencap
+![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/1.png?raw=true)
