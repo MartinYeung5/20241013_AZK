@@ -48,4 +48,4 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 
 #### My article
 1. ZKP - PLONK introduction
-https://ithelp.ithome.com.tw/users/20119569/ironman/8057
+* https://ithelp.ithome.com.tw/users/20119569/ironman/8057
