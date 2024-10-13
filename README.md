@@ -26,7 +26,7 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 * Add verification function
 #### Status (Updating)
 1. smart contract finished
-2. ZKP function is still developing
+2. ZK function is still developing (will use PLONK)
 3. AI function is still developing
 4. UI finished in MVP version
 
@@ -45,3 +45,5 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 
 5. user contract sign(contract created by others and let user to sign)
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/5.png?raw=true)
+
+#### My article (chinese version)
