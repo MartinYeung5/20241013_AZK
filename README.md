@@ -30,6 +30,11 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 3. AI function is still developing
 4. UI finished in MVP version
 
+#### Applicaiotn
+1. NODIT
+* using Aptos indexer API for getting user balance
+* using Node API for getting user account information
+
 #### Screencap
 1. main page
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/1.png?raw=true)
