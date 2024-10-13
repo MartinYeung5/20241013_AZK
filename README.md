@@ -37,3 +37,5 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 2. user contract list (created by user)
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/2.png?raw=true)
 
+3. wallet connection (using aptos connect)
+![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/3.png?raw=true)
