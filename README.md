@@ -31,4 +31,9 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 4. UI finished in MVP version
 
 * Screencap
+1. main page
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/1.png?raw=true)
+
+2. user contract list (created by user)
+![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/2.png?raw=true)
+
