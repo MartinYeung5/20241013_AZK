@@ -21,6 +21,8 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 
 2. user can upload the digital contract for whole apartment maintenance. Actually one apartment may have many owners. if the whole apartment need some maintenance, it will need all owners to know and make the final ddecision together. Therefore, it will better have a contract to protect each owner benefit.
 
+Therefore, we can see that the project can help many people to solve their issue and protect their benefit. Moreover, it can let more people to use web3 application, and want to promote one important point that web3 application can imporve our life and not just only for specific user. i believe it is a ggod way to promote web3 application and aptos. The porject is not only focus on current user, but also want to promote to general user and let them to enjoy the web3 power. 
+
 ### Schedule/Milestone
 * Add multied25519
 * Optimize smart contract
