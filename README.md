@@ -10,10 +10,12 @@ Utilize ZKP + WEb3 + AI to protect digital contract.
 
 ## About this project
 The project aims to provide a solution for user to verify the contract with ZKP and check the contract with AI audit.
-1. user can let third party to check the contract is valid or not in order to let third party belive your contract is valid.
+1. User can let third party to check the contract is valid or not in order to let third party belive your contract is valid.
 2. User and partner can ensure their contract is same and can't update without both confirmation.
 3. Utilize AI audit can help to check the potential risk in contract
 4. Utilize ZKP can prevent the exposure of sensitive information.
+
+##
 
 ### Schedule/Milestone
 * Add multied25519
