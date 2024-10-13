@@ -47,3 +47,5 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 ![alt text](https://github.com/MartinYeung5/20241013_AZK/blob/main/screencap/5.png?raw=true)
 
 #### My article
+1. ZKP - PLONK introduction
+https://ithelp.ithome.com.tw/users/20119569/ironman/8057
