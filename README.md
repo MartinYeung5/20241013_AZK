@@ -15,7 +15,9 @@ The project aims to provide a solution for user to verify the contract with ZKP 
 3. Utilize AI audit can help to check the potential risk in contract
 4. Utilize ZKP can prevent the exposure of sensitive information.
 
-##
+###
+* use case
+1. user can upload the digital contract for whole apartment maintenance. Actually one apartment may have many owners. if the whole apartment need some maintenance, it will need all owners to know and make the final ddecision together. Therefore, it will better have a contract to protect each owner benefit.
 
 ### Schedule/Milestone
 * Add multied25519
