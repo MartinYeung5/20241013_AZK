@@ -1,5 +1,5 @@
 ## Aptos Project
-* Project Name: AZK
+* Project Name: A:ZK
 
 * github link: https://github.com/MartinYeung5/
 * network: testnet
